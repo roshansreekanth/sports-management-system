@@ -1,4 +1,5 @@
 # sports-management-system
+### Done as part of the Object Oriented Principles module
 A command line management system that includes players, teams, and managers
 
 The soccer league requires a player, team, and manager. The league has several teams. Teams have several players. Teams are managed by Managers.
